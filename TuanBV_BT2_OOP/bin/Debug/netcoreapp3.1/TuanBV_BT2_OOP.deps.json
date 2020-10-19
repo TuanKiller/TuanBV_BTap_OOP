@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TuanBV_BT2_OOP/1.0.0": {
+        "runtime": {
+          "TuanBV_BT2_OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TuanBV_BT2_OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

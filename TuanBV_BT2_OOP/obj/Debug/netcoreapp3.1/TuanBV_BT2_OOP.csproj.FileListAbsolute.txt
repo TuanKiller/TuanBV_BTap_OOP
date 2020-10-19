@@ -1,0 +1,13 @@
+C:\Users\TuanBV\Desktop\TuanBV_BT2_OOP\TuanBV_BT2_OOP\bin\Debug\netcoreapp3.1\TuanBV_BT2_OOP.exe
+C:\Users\TuanBV\Desktop\TuanBV_BT2_OOP\TuanBV_BT2_OOP\bin\Debug\netcoreapp3.1\TuanBV_BT2_OOP.deps.json
+C:\Users\TuanBV\Desktop\TuanBV_BT2_OOP\TuanBV_BT2_OOP\bin\Debug\netcoreapp3.1\TuanBV_BT2_OOP.runtimeconfig.json
+C:\Users\TuanBV\Desktop\TuanBV_BT2_OOP\TuanBV_BT2_OOP\bin\Debug\netcoreapp3.1\TuanBV_BT2_OOP.runtimeconfig.dev.json
+C:\Users\TuanBV\Desktop\TuanBV_BT2_OOP\TuanBV_BT2_OOP\bin\Debug\netcoreapp3.1\TuanBV_BT2_OOP.dll
+C:\Users\TuanBV\Desktop\TuanBV_BT2_OOP\TuanBV_BT2_OOP\bin\Debug\netcoreapp3.1\TuanBV_BT2_OOP.pdb
+C:\Users\TuanBV\Desktop\TuanBV_BT2_OOP\TuanBV_BT2_OOP\obj\Debug\netcoreapp3.1\TuanBV_BT2_OOP.csprojAssemblyReference.cache
+C:\Users\TuanBV\Desktop\TuanBV_BT2_OOP\TuanBV_BT2_OOP\obj\Debug\netcoreapp3.1\TuanBV_BT2_OOP.AssemblyInfoInputs.cache
+C:\Users\TuanBV\Desktop\TuanBV_BT2_OOP\TuanBV_BT2_OOP\obj\Debug\netcoreapp3.1\TuanBV_BT2_OOP.AssemblyInfo.cs
+C:\Users\TuanBV\Desktop\TuanBV_BT2_OOP\TuanBV_BT2_OOP\obj\Debug\netcoreapp3.1\TuanBV_BT2_OOP.csproj.CoreCompileInputs.cache
+C:\Users\TuanBV\Desktop\TuanBV_BT2_OOP\TuanBV_BT2_OOP\obj\Debug\netcoreapp3.1\TuanBV_BT2_OOP.dll
+C:\Users\TuanBV\Desktop\TuanBV_BT2_OOP\TuanBV_BT2_OOP\obj\Debug\netcoreapp3.1\TuanBV_BT2_OOP.pdb
+C:\Users\TuanBV\Desktop\TuanBV_BT2_OOP\TuanBV_BT2_OOP\obj\Debug\netcoreapp3.1\TuanBV_BT2_OOP.genruntimeconfig.cache
